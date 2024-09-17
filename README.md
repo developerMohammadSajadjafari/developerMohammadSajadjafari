@@ -1,8 +1,8 @@
-
+<h1 align="left">Hi👋everybody</h1>
 
 ###
 
-<h1 align="left">Hi👋everybody</h1>
+<h2 align="left">I am a junior level programmer and I am happy to meet you all. Good luck</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🧑‍💻 About Me</h3>
+<h2 align="left">🧑‍💻 About Me</h2>
 
 ###
 
@@ -38,11 +38,7 @@
 
 ###
 
-<p align="left">I am a junior level programmer and I am happy to meet you all. Good luck</p>
-
-###
-
-<h3 align="left">🌐 Connect with Me</h3>
+<h2 align="left">🌐 Connect with Me</h2>
 
 ###
 
@@ -61,7 +57,7 @@
 
 ###
 
-<p align="left">📊 GitHub Stats</p>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
@@ -76,7 +72,6 @@
 
 ###
 
-<br clear="both">
-
+<img src="https://raw.githubusercontent.com/developerMohammadSajadjafari/developerMohammadSajadjafari/output/snake.svg" alt="Snake animation" />
 
 ###
